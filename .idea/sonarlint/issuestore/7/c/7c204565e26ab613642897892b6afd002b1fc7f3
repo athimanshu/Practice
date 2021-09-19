@@ -1,0 +1,12 @@
+
+G
+java:S1659"%Declare "counter" on a separate line.(ûùÅ­ÿÿÿÿÿ8÷á’˜¬/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(¦‰§ë8ë°•˜¬/
+t
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÜŞçüÿÿÿÿ8÷á’˜¬/
+C
+java:S1659"!Declare "end" on a separate line.(ûùÅ­ÿÿÿÿÿ8÷á’˜¬/
+K
+java:S1481")Remove this unused "head" local variable.(ûùÅ­ÿÿÿÿÿ8÷á’˜¬/
+D
+java:S1659""Declare "head" on a separate line.(ûùÅ­ÿÿÿÿÿ8÷á’˜¬/

@@ -1,0 +1,16 @@
+
+m	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û©ş‡8¸Áâ¢/
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úæò8 ÜË€¢/
+I
+java:S1172&",Remove this unused method parameter "array".(úæò8 ÜË€¢/
+C
+java:S1659O"&Declare "pos_of_I" on a separate line.(û©ş‡8¸Áâ¢/
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¸Áâ¢/
+m	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û©ş‡8¸Áâ¢/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢è¡Ÿıÿÿÿÿ8 ÜË€¢/
+l	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷©e8 ÜË€¢/
+^	java:S125€"<This block of commented-out lines of code should be removed.(”ÿŞ¢ùÿÿÿÿ8‘‰Ü¢/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªğ¿Ÿúÿÿÿÿ8×«Ì€¢/
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8„½™•¢/
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(Ùëº±8¸Áâ¢/

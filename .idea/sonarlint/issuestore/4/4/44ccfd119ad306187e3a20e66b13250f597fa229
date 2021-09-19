@@ -1,0 +1,10 @@
+
+r
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8­¨›•¢/
+c
+java:S1126*"AReplace this if-then-else statement by a single return statement.(šÌ©åûÿÿÿÿ8ù€›•¢/
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(îªÞØøÿÿÿÿ8ù€›•¢/
+]
+java:S1126$"AReplace this if-then-else statement by a single return statement.(—¦©P8ù€›•¢/

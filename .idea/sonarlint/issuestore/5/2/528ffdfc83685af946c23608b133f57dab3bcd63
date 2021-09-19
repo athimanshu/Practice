@@ -1,0 +1,7 @@
+
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ΛΑό8μι¨—/
+L
+java:S3740"/Provide the parametrized type for this generic.(ίξ¶Ϋ8μι¨—/
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ίξ¶Ϋ8μι¨—/

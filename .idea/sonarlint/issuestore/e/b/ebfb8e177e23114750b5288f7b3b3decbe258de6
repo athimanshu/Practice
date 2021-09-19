@@ -1,0 +1,21 @@
+
+J	java:S108#")Either remove or fill this block of code.(×ŸÓäÿÿÿÿÿ8–í¯Ø˜/
+?
+java:S2386	"Make this member "protected".(ÈˆÕşÿÿÿÿ8Í—«Ø˜/
+N
+java:S1444	",Make this "public static result" field final(ÈˆÕşÿÿÿÿ8Í—«Ø˜/
+`
+java:S1155'">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüşÿÿÿÿ8ò±¤Ø˜/
+t
+java:S1104	"RMake result a static final constant or non-public and provide accessors if needed.(ÈˆÕşÿÿÿÿ8Ê¼©Ø˜/
+T
+java:S1854"7Remove this useless assignment to local variable "sum".(“­Ğ”8ù€¹Ø˜/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(æÌ†Ãşÿÿÿÿ8Í—«Ø˜/
+E
+java:S1481"(Remove this unused "sum" local variable.(“­Ğ”8ù€¹Ø˜/
+E	java:S108)")Either remove or fill this block of code.(å¥‡8£Ù«Ø˜/
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8é„ëô˜/
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8Ş¹ÁØ˜/

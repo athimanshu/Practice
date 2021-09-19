@@ -1,0 +1,8 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(ºÇ‘–8¤ÅÀÅ³/
+H
+java:S1481"&Remove this unused "s" local variable.(Ý“±Ÿþÿÿÿÿ8þà£Å´/
+W
+java:S1854"5Remove this useless assignment to local variable "s".(Ý“±Ÿþÿÿÿÿ8þà£Å´/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìîð¸

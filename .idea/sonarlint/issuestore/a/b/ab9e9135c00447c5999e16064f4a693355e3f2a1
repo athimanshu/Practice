@@ -1,0 +1,9 @@
+
+J
+java:S1172"(Remove this unused method parameter "k".(‘Ž¡¿ùÿÿÿÿ8®©Ÿ‰ /
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘Ž¡¿ùÿÿÿÿ8®©Ÿ‰ /
+`
+java:S1155'">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ8Àƒ¸‰ /
+’
+java:S1319"pThe type of the "tasks" object should be an interface such as "List" rather than the implementation "ArrayList".(‘Ž¡¿ùÿÿÿÿ8®©Ÿ‰ /

@@ -1,0 +1,14 @@
+
+=
+java:S3626"Remove this redundant jump.(ÀÀ”ßûÿÿÿÿ8àëË˜/
+K
+java:S54138")Verify that "remove()" is used correctly.(àĞ“ìùÿÿÿÿ8˜ôú˜/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Ó¼Ø‡øÿÿÿÿ8†ˆå˜/
+L
+java:S3740)"/Provide the parametrized type for this generic.(ãÚœ8˜ôú˜/
+u
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÕÓ#8˜ôú˜/
+L
+java:S3740="/Provide the parametrized type for this generic.(Îù¼È8˜ôú˜/
+N
+java:S1612E",Replace this lambda with a method reference.(Ó¼Ø‡øÿÿÿÿ8†ˆå˜/

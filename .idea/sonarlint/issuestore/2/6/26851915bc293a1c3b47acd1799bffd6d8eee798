@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬θΐιόÿÿÿÿ8±Ϊ»›/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ζÒώ»ϊÿÿÿÿ8§ΧΪ»›/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(υΙΩ•8±Ϊ»›/
+N
+java:S1612A",Replace this lambda with a method reference.(«“άτύÿÿÿÿ8φ”η»›/
+X	java:S125@"<This block of commented-out lines of code should be removed.(Ν€8φ”η»›/
+@
+java:S1659"#Declare "count" on a separate line.(¬–³8±Ϊ»›/
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡΅Ι8²µε»›/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(«“άτύÿÿÿÿ8γσε»›/

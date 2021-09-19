@@ -1,0 +1,18 @@
+
+L
+java:S3740
+"/Provide the parametrized type for this generic.(† òİ8 µ÷Œ/
+9
+java:S2326	"T is not used in the method.(ŒŠŒÄ8ñ¯ÚøŒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óçºğüÿÿÿÿ8£º„øŒ/
+
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“İÅ 8÷¼„/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8µÕÙ÷Œ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íñËìşÿÿÿÿ8õÕ÷Œ/
+L
+java:S3740
+"/Provide the parametrized type for this generic.(† òİ8 µ÷Œ/
+N
+java:S1612",Replace this lambda with a method reference.(Óçºğüÿÿÿÿ8ÜË„øŒ/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸Óèïúÿÿÿÿ8…ú¯ûŒ/

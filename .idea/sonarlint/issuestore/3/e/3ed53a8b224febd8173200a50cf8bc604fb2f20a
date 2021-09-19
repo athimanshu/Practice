@@ -1,0 +1,8 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ã”Í€8—ÐÝ«©/
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Œ¶°Æ8þùÕ©©/
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ôš‰£úÿÿÿÿ8°ÒÓ©©/
+E
+java:S1172"(Remove this unused method parameter "n".(èéÄ†8­éÐ©©/

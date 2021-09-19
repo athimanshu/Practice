@@ -1,0 +1,11 @@
+
+J
+java:S14815"(Remove this unused "obj" local variable.(‚§šùÿÿÿÿ8¼Øû«˜/
+Y
+java:S18545"7Remove this useless assignment to local variable "obj".(‚§šùÿÿÿÿ8¼Øû«˜/
+m
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Î“§ë8¨¿÷Ÿ˜/
+
+java:S1319!"tThe type of the "buildings" object should be an interface such as "List" rather than the implementation "ArrayList".(¬Ë‘=8¨¿÷Ÿ˜/
+–
+java:S1319"tThe type of the "buildings" object should be an interface such as "List" rather than the implementation "ArrayList".(›ŒıĞøÿÿÿÿ8Ê»˜˜/

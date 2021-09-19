@@ -1,0 +1,8 @@
+
+o	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—žê üÿÿÿÿ8¥ÄŒ —/
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(„ÿ° 8¥ÄŒ —/
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—žê üÿÿÿÿ8¥ÄŒ —/
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—žê üÿÿÿÿ8¥ÄŒ —/

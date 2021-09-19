@@ -1,0 +1,7 @@
+
+y	java:S127""XRefactor the code in order to not assign to this loop counter from within the loop body.(›¹–íûÿÿÿÿ8†™‘ª¬/
+A
+java:S1659"Declare "n" on a separate line.(î”·´ùÿÿÿÿ8¦â‰ª¬/
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÏÊ8º‚ª¬/
+
+java:S2234"dParameters to maxUncrossedLines2 have the same names but not the same order as the method arguments.(¯Ç´ô8¦â‰ª¬/

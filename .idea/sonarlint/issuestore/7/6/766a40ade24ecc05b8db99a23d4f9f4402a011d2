@@ -1,0 +1,19 @@
+
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ßº´ñıÿÿÿÿ8•ÜÕ‹/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÓèï8î¹ãÖ‹/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(éå8åãÖ‹/
+H
+java:S1612+",Replace this lambda with a method reference.(Š¶ÔZ8éˆ×‹/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‚Ä‘¿8ñ·Ö‹/
+I
+java:S1602;",Remove useless curly braces around statement(ÎÙÅ¼8Ô‰ßÕ‹/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(‰öç¥8Ô‰ßÕ‹/
+K
+java:S1611+"/Remove the parentheses around the "t" parameter(Š¶ÔZ8–ä®Ö‹/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ìö«Úùÿÿÿÿ8•ÜÕ‹/
+D
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8ãìÔ‹/
+o
+java:S1602+"SRemove useless curly braces around statement and then remove useless return keyword(Š¶ÔZ8–ä®Ö‹/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¿Ğ¼Àúÿÿÿÿ8©ŒôÖ‹/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áõõé8ƒéÖ‹/

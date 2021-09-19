@@ -1,0 +1,9 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(±šŒö8àôŸ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Í¶­óŸ/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¨ÚŒ8¸½‘ôŸ/
+œ
+java:S1319	"zThe type of the "redShirtHeights" object should be an interface such as "List" rather than the implementation "ArrayList".(’øıùÿÿÿÿ8ƒŠ óŸ/
+
+java:S1319	"{The type of the "blueShirtHeights" object should be an interface such as "List" rather than the implementation "ArrayList".(’øıùÿÿÿÿ8ƒŠ óŸ/

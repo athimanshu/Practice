@@ -1,0 +1,20 @@
+
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(ËĞ8Ú¶•¬/
+?
+java:S1659""Declare "head" on a separate line.(½¥ê¤8Şï’¬/
+B
+java:S1659"%Declare "counter" on a separate line.(½¥ê¤8Şï’¬/
+A
+java:S1659"$Declare "minLen" on a separate line.(½¥ê¤8¡´ò’¬/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(áÇ«úÿÿÿÿ8÷“¬/
+>
+java:S1659M"!Declare "end" on a separate line.(û»“8¡üã’¬/
+D
+java:S1659M"'Declare "minLength" on a separate line.(û»“8¡üã’¬/
+C
+java:S1659M"&Declare "minStart" on a separate line.(û»“8¡üã’¬/
+B
+java:S1659M"%Declare "counter" on a separate line.(û»“8¡üã’¬/
+>
+java:S1659"!Declare "end" on a separate line.(½¥ê¤8Şï’¬/

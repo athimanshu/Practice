@@ -1,0 +1,10 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8»é¼ˆ¥/
+m
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êí‹Û8É‰–ˆ¥/
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û8É‰–ˆ¥/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‹Ëüÿÿÿÿ

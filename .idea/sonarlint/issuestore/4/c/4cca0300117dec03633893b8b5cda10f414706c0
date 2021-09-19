@@ -1,0 +1,11 @@
+
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÕÒ‰‰ûÿÿÿÿ8˜óÆâ¦/
+I
+java:S16127",Replace this lambda with a method reference.(ÕëüÍ8Á¸Îâ¦/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ÕëüÍ8Á¸Îâ¦/
+X	java:S125-"<This block of commented-out lines of code should be removed.(Êşÿò8—ŠØã¦/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‹Ëüÿÿÿÿ
+Q
+java:S1128"5Remove this unused import 'leetcode.medium.Triangle'.(’ÇŞg8æšğá¦/
+]	java:S125;"<This block of commented-out lines of code should be removed.(óœ©Ïøÿÿÿÿ8Èâñã¦/

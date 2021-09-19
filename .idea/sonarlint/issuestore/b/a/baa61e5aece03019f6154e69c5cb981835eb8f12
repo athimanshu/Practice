@@ -1,0 +1,6 @@
+
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Éı’Õÿÿÿÿÿ8ÇÇô•/
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8ûÔÀò•/
+W
+java:S1854*"5Remove this useless assignment to local variable "s".(ª©º’øÿÿÿÿ8Ç¥–õ•/

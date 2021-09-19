@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‹Ëüÿÿÿÿ
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ò¶áÁıÿÿÿÿ8õÀ¾×¥/
+
+java:S1319*"rThe type of the "inorder" object should be an interface such as "List" rather than the implementation "ArrayList".(Ï¦ª–8õÀ¾×¥/
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(‹… •8õÀ¾×¥/
+”
+java:S1319"rThe type of the "inorder" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿõå©üÿÿÿÿ8õÀ¾×¥/
+
+java:S1319"rThe type of the "inorder" object should be an interface such as "List" rather than the implementation "ArrayList".(¬×–Å8õÀ¾×¥/
+•
+java:S1319"sThe type of the "preorder" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿõå©üÿÿÿÿ8õÀ¾×¥/
+
+java:S1319"sThe type of the "preorder" object should be an interface such as "List" rather than the implementation "ArrayList".(¬×–Å8õÀ¾×¥/

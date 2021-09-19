@@ -1,0 +1,6 @@
+
+\
+java:S1126L"AReplace this if-then-else statement by a single return statement.(œÆËüüÿÿÿÿ
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯Ø€ø
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(æû…´ùÿÿÿÿ

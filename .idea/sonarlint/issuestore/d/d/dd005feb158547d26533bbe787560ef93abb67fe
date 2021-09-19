@@ -1,0 +1,10 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ïå”É™/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ïå”É™/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(äÜà…8ÎâÙ£™/
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Ïå”É™/
+>
+java:S1659"!Declare "end" on a separate line.(Ä×â8É˜×£™/

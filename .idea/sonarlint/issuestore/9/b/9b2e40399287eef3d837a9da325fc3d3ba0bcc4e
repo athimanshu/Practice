@@ -1,0 +1,11 @@
+
+}
+java:S1104!"[Make leftSubtreeSize a static final constant or non-public and provide accessors if needed.(‰×—şÿÿÿÿ8«å˜››/
+l
+java:S1104 "OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8«å˜››/
+s
+java:S1104#"QMake right a static final constant or non-public and provide accessors if needed.(¦Ù“Ãûÿÿÿÿ8«å˜››/
+r
+java:S1104""PMake left a static final constant or non-public and provide accessors if needed.(¼İÏıÿÿÿÿ8«å˜››/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôî‘‰ûÿÿÿÿ8«å˜››/

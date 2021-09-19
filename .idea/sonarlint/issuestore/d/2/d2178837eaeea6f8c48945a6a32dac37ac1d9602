@@ -1,0 +1,13 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¶ûÜùÿÿÿÿ8å¨°û“/
+
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "newOrgInfo".(«‚–Ì8æŞû“/
+v
+java:S1104"YMake directReports a static final constant or non-public and provide accessors if needed.( ¦Ü“8å¨°û“/
+{
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ôªœúÿÿÿÿ8å¨°û“/
+r
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(¶ÃÎ’şÿÿÿÿ8å¨°û“/
+|
+java:S1104-"_Make lowestCommonManager a static final constant or non-public and provide accessors if needed.(ãÑÖ¢8’æ¸û“/
